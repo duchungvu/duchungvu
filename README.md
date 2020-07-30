@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently interning at Google working on Chronium
+- 🔭 I’m currently interning at Google working on Chromium
